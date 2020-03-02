@@ -235,3 +235,5 @@ img{
 .service_part03 span{font-size: 14px;line-height: 30px; font-family:Microsoft Yahei;}
 .list{display:block; margin-bottom:10px; list-style: none; font-size: 14px; font-family:Microsoft Yahei; background: url("../images/person_icon.png") no-repeat 0px -5px; background-size:20px;padding-left: 20px;}
 .service_part01 ul{}
+
+.foot_block_down div a { color: white; }
