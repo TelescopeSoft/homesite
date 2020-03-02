@@ -21,3 +21,4 @@ div.flicking_con a.on{background-position:0 -21px}
 #btn_prev,#btn_next{z-index:11111;position:absolute;display:block;width:73px!important;height:74px!important;top:50%;margin-top:-37px;display:none;}
 #btn_prev{background:url(../images/hover_left.png) no-repeat left top;left:100px;}
 #btn_next{background:url(../images/hover_right.png) no-repeat right top;right:100px;}
+.foot_block_down div a { color: white; }
